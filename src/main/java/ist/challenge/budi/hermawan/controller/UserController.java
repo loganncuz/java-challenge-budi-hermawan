@@ -52,8 +52,7 @@ public class UserController {
     )
     @PutMapping("/updateUser")
     @Produces("application/json")
-    public ResponseEntity<?> update(@RequestBody User body) throws Exception {
-        System.out.println("body :"+body.getUserName());
+    public ResponseEntity<?> update(@RequestBody User body) throws Exception { 
         ResponsePayload responsePayload=userService.updateUser(body);
         return ResponseEntity
                 .status(responsePayload.getStatus())
