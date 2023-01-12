@@ -1,7 +1,9 @@
 Java Challange Project
 =====================================
 
-![image](https://raw.github.com/loganncuz/java-challenge-budi-hermawan/master/API Documentation.JPG)
+ <div align="center">
+    <img src="/API Documentation.JPG" width="400px"</img> 
+</div>
 
 ## Getting Start
 
