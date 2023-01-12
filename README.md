@@ -1,7 +1,7 @@
 Java Challange Project
 =====================================
 
-![Alt text](/../master/API Documentation.JPG?raw=true "Optional Title")
+![ScreenShot](https://raw.github.com/loganncuz/java-challenge-budi-hermawan/master/API Documentation.JPG)
 
 ## Getting Start
 
