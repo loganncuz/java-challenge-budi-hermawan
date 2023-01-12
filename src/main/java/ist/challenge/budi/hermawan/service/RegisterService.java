@@ -27,9 +27,6 @@ public class RegisterService {
             responsePayload.setStatus(HttpStatus.CONFLICT.value());
             responsePayload.setError(true);
         }
-
-
-
         return responsePayload;
     }
 
