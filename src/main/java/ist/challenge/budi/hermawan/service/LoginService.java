@@ -32,7 +32,6 @@ public class LoginService {
                 }
             }
         }
-
         return  responsePayload;
     }
 }
