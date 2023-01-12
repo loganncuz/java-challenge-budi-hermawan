@@ -13,10 +13,7 @@ import java.util.Optional;
 @Service
 public class UserService {
     @Autowired
-    UserRepository userRepository;
-
-    @Autowired
-    RegisterService registerService;
+    UserRepository userRepository; 
 
     public List<User> findUsers(){
         List<User> users=userRepository.findAll();
