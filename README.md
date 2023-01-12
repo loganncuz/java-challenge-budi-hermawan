@@ -2,7 +2,7 @@ Java Challange Project
 =====================================
 
  <div align="center">
-    <img src="/API Documentation.JPG" width="400px"</img> 
+    <img src="/API Documentation.JPG" width="800px"</img> 
 </div>
 
 ## Getting Start
