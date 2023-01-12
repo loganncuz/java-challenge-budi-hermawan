@@ -1,7 +1,7 @@
 Java Challange Project
 =====================================
 
-![Alt text](./API Documentation.JPG?raw=true "Optional Title")
+![Alt text](/../master/API Documentation.JPG?raw=true "Optional Title")
 
 ## Getting Start
 
